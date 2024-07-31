@@ -1,4 +1,5 @@
-from src.temp1 import {hi1, h}
+from src.temp2 import (hi1, h)
 
-h1()
+hi1()
+
 h.hello1("gg")
